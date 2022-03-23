@@ -5,7 +5,7 @@ Team members:
 3)Manish Reddy       19XJ1A0519
 
 
-	Name of the file consisting of the program is heft.c. It can be compiled in a c compiler using the command "gcc 19XJ1A0505_19XJ1A0583_19XJ1A0519" creating an executable a.out. We execute a.out  using ./a.out to run the code.
+	Name of the file consisting of the program is 19XJ1A0505_19XJ1A0583_19XJ1A0519.c. It can be compiled in a c compiler using the command "gcc 19XJ1A0505_19XJ1A0583_19XJ1A0519.c" creating an executable a.out. We execute a.out  using ./a.out to run the code.
 
 	The program has the following funtions:-
 
